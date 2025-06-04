@@ -1,2 +1,0 @@
-# DataverseDataDictionary
-Dataverse Data Dictionary
